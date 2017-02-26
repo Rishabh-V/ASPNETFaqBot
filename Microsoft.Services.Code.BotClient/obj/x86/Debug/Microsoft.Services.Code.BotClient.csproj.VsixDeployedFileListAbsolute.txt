@@ -1,0 +1,7 @@
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rishabh Verma\Microsoft.Services.Code.BotClient\1.4\\Microsoft.Services.Code.BotClient.dll
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rishabh Verma\Microsoft.Services.Code.BotClient\1.4\\Microsoft.Services.Code.BotClient.pdb
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rishabh Verma\Microsoft.Services.Code.BotClient\1.4\\CefSharp.Core.dll
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rishabh Verma\Microsoft.Services.Code.BotClient\1.4\\CefSharp.dll
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rishabh Verma\Microsoft.Services.Code.BotClient\1.4\\Microsoft.Services.Code.BotClient.pkgdef
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rishabh Verma\Microsoft.Services.Code.BotClient\1.4\\extension.vsixmanifest
+C:\Users\rishabhv\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Rishabh Verma\Microsoft.Services.Code.BotClient\1.4\\CefSharp.Wpf.dll

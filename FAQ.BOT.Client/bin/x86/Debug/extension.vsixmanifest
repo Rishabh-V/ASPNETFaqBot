@@ -1,0 +1,18 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="Microsoft.Services.Code.BotClient.Rishabh Verma.d7807595-0c3f-4584-9aad-2533238c94bf" Version="1.4" Language="en-US" Publisher="Rishabh Verma" />
+    <DisplayName>Microsoft.Services.Code.BotClient</DisplayName>
+    <Description xml:space="preserve">The FAQ BOT for Microsoft Services Code.</Description>
+    <Tags>Microsoft, Services, Services Code, FAQ, BOT</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+    <Dependency Id="Microsoft.VisualStudio.MPF.14.0" DisplayName="Visual Studio MPF 14.0" Version="[14.0]" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Microsoft.Services.Code.BotClient.pkgdef" />
+  </Assets>
+</PackageManifest>

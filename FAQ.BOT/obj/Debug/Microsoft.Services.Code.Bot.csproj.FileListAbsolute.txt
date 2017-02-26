@@ -1,0 +1,39 @@
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Bot Application1.dll.config
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Bot Application1.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Bot Application1.pdb
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Autofac.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Chronic.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Newtonsoft.Json.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\System.Web.Http.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Autofac.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\Newtonsoft.Json.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\System.Web.Http.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\obj\Debug\Microsoft.Services.Code.Bot.csprojResolveAssemblyReference.cache
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\obj\Debug\Bot Application1.dll
+C:\Users\rishabhv\Documents\Visual Studio 2015\Projects\Microsoft.Services.Code\Microsoft.Services.Code.Bot\obj\Debug\Bot Application1.pdb

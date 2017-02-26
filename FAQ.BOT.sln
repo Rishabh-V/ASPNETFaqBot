@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQ.BOT.Client", "Microsoft.Services.Code.BotClient\FAQ.BOT.Client.csproj", "{D6803D68-42AC-4F30-8DEA-519A162CAE52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQ.BOT.Client", "FAQ.BOT.Client\FAQ.BOT.Client.csproj", "{D6803D68-42AC-4F30-8DEA-519A162CAE52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQ.BOT", "Microsoft.Services.Code.Bot\FAQ.BOT.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FAQ.BOT", "FAQ.BOT\FAQ.BOT.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

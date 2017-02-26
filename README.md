@@ -5,13 +5,13 @@ The Visual Studio 2015(+) Extension for ASP.NET Core FAQ. The extension presents
 To try the ASP.NET Core FAQ Extension:
 
 1. Download the VSIX from [here](https://github.com/Rishabh-V/ASPNETFaqBot/blob/master/VSIX/FAQ.BOT.Client.vsix)(Its a bit big as it has chromium browser assemblies in it, which are quite heavy :( )
-2. Run VSIX.
-3. Open a new instance of Visual Studio 2015 or above.
+2. Install VSIX.
+3. Open a new instance of Visual Studio 2015 or above (tested only in VS 2015 as of now).
 4. Go to View--> Other Windows --> ASP.NET Core FAQ BOT.
-5. A tool window should show up (if everything went well). You may want to snap it into right or left.
-6. Start by saying Hi/Hello to Bot and he will respond.
-7. The key thing for BOT to work is how much you train it, currently its a WIP and so only has bunch of answers. The more we put the questions in KB, the better it would be. Its a boring job (seriously :)), so I only added about 17-18 items in Knowledge bank, but I will update it as and when I get time.
-8. __Currently, it should answer stuff like documentation, roadmap, caching, performance, course on ASP.NET Core, video on ASP.NET core, What it is and so and so forth.__
+5. A tool window should show up (if everything went well). You may want to snap this window to right or left.
+6. Start by saying Hi/Hello to Bot and it should respond.
+7. The key for BOT to work is how much you train it, currently its a WIP and so only has bunch of answers. The more we put the questions in KB, the better it would be. Its a boring job (seriously :)), so I only added about 17-18 items in Knowledge bank, but I will update it as and when I get time.
+8. __Currently, it should answer basic stuff like documentation, roadmap, caching, performance, course on ASP.NET Core, video on ASP.NET core, What it is and so and so forth. For other questions it would say "No good match found in KB" meaning KB doesn't have info on those stuff__
 
 ### Description ###
 The solution has 3 parts:

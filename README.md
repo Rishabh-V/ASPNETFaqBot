@@ -11,7 +11,7 @@ To try the ASP.NET Core FAQ Extension:
 5. A tool window should show up (if everything went well). You may want to snap this window to right or left.
 6. Start by saying Hi/Hello to Bot and it should respond.
 7. The key for BOT to work is how much you train it, currently its a WIP and so only has bunch of answers. The more we put the questions in KB, the better it would be. Its a boring job (seriously :)), so I only added about 17-18 items in Knowledge bank, but I will update it as and when I get time.
-8. __Currently, it should answer basic stuff like documentation, roadmap, caching, performance, course on ASP.NET Core, video on ASP.NET core, What it is and so and so forth. For other questions it would say "No good match found in KB" meaning KB doesn't have info on those stuff__
+8. __Currently, it should answer basic stuff like documentation, roadmap, caching, performance, course on ASP.NET Core, video on ASP.NET core, what it is and so on and so forth. For other questions it would say "No good match found in KB" meaning KB doesn't have info on those stuffs.__
 
 ### Description ###
 The solution has 3 parts:

@@ -2,7 +2,7 @@ configuration: Release
 
 #restore Nuget packages before running MSBuild
 before_build:
- - nuget restore
+ nuget restore
  
  build:
   verbosity: minimal

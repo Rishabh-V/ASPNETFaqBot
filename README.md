@@ -1,4 +1,6 @@
-# ASP.NET Core Faq Bot #
+# ASP.NET Core Faq Bot #                 
+[![Build status](https://ci.appveyor.com/api/projects/status/uh4kr4r1ghiixnm0?svg=true)](https://ci.appveyor.com/project/Rishabh-V/aspnetfaqbot)
+
 The Visual Studio 2015(+) Extension for ASP.NET Core FAQ. The extension presents a chat interface right inside visual studio so that developer gets the answers to common questions regarding ASP.NET Core. [This is how it looks like](https://github.com/Rishabh-V/ASPNETFaqBot/blob/master/ASPNETCoreFaqBot.png)
 
 ## Getting started ##
